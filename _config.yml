@@ -1,7 +1,7 @@
 # Site settings
 title: "多想，想深，所想"
 author: "Deep Thinker"
-description: "这是一个是用 <a href='http://jekyllrb.com/'Jekyll</a>引擎，托管在 <a href='https://pages.github.com/'>Github Pages</a>上的博客"
+description: "这是一个是用 <a href='http://jekyllrb.com/'>Jekyll</a>引擎，托管在 <a href='https://pages.github.com/'>Github Pages</a>上的博客"
 keywords: "Software Engineering, Mathematics, Philosophy"
 biography: "一个半资深新能源行业从业者，搞过技术，搞过商务，搞过投资，目前正在瞎搞的人。"
 colophon: "© MMXIII — MMXVI by Hugo Sereno Ferreira.<br>Content available under <a href='http://creativecommons.org/licenses/by-nc-sa/4.0/'>Creative Commons (BY-NC-SA)</a> unless otherwise noted.<br>This site is hosted at <a href='https://pages.github.com/'>Github Pages</a> and created with <a href='http://jekyllrb.com/'>Jekyll</a>."
